@@ -1,2 +1,2 @@
-# QuizGame
-Developed Quiz game in Java Script using Visual Studio Code
+# Quiz_Game
+Creating a quiz game to help students gain knowledge
